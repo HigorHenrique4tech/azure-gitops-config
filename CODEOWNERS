@@ -1,0 +1,8 @@
+# Dono padrão do repositório:
+*                           @HigorHenrique4tech
+
+# Produção e plataforma: toda mudança exige o dono revisando
+/apps/*/overlays/prod/      @HigorHenrique4tech
+/platform/                  @HigorHenrique4tech
+/clusters/                  @HigorHenrique4tech
+/.github/                   @HigorHenrique4tech
