@@ -1,6 +1,7 @@
 # Instalar uma vez por clone:  pre-commit install
 # Rodar em tudo:               pre-commit run --all-files
 default_install_hook_types: [pre-commit, commit-msg]
+default_stages: [pre-commit]
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
